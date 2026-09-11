@@ -11,6 +11,15 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **cybersec-projects**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# cybersec-projects
+
+> A curated and organized collection of resources related to **cybersec-projects**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Cyber Security Projects
