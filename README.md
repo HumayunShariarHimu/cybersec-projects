@@ -2,6 +2,128 @@
 
 > A curated and organized collection of resources related to **cybersec-projects**.
 
+**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
+
+# Cyber Security Projects
+ 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
+![Discord](https://img.shields.io/discord/1163365511309049948)
+![Category](https://img.shields.io/badge/Category-Cybersecurity-blue) ![Type](https://img.shields.io/badge/Type-Lab%20%2F%20Learning-informational) ![Status](https://img.shields.io/badge/Status-Reference-lightgrey)
+
+> Hands-on cybersecurity projects built for learning, experimentation, and practical security research — featuring offensive and defensive tools, automation scripts, and real-world simulations for ethical hacking practice.
+
+# Contact With Me:
+
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
+  </a>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitch logo"  />
+  </a>
+    <img src="https://img.shields.io/static/v1?message=Proton%20Mail&logo=protonmail&label=&color=7341FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="proton mail logo"  />
+  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
+  </a>
+
+  # 💰 You can help me by Donating
+
+## 📑 Table of Contents
+
+- [⚔️ Offensive Security Projects](#️-offensive-security-projects)
+  - [Reconnaissance & Enumeration](#reconnaissance--enumeration)
+  - [Web Application Security](#web-application-security)
+  - [Network & Wireless Attacks](#network--wireless-attacks)
+  - [Exploitation & Post-Exploitation](#exploitation--post-exploitation)
+  - [Malware & Evasion Research](#malware--evasion-research)
+  - [Hardware, IoT & Firmware](#hardware-iot--firmware)
+  - [Social Engineering & OSINT](#social-engineering--osint)
+  - [Blockchain & Cloud](#blockchain--cloud)
+- [🛡️ Defensive Security Projects](#️-defensive-security-projects)
+  - [Monitoring & Detection](#monitoring--detection)
+  - [Forensics & Incident Response](#forensics--incident-response)
+  - [Hardening & Secure Architecture](#hardening--secure-architecture)
+  - [Cloud, Container & Pipeline Security](#cloud-container--pipeline-security)
+  - [Threat Intelligence & Deception](#threat-intelligence--deception)
+
+## ⚔️ Offensive Security Projects
+
+### Reconnaissance & Enumeration
+
+| Project | Description |
+|---|---|
+
+### Web Application Security
+
+| Project | Description |
+|---|---|
+
+### Network & Wireless Attacks
+
+| Project | Description |
+|---|---|
+
+### Exploitation & Post-Exploitation
+
+| Project | Description |
+|---|---|
+
+### Malware & Evasion Research
+
+| Project | Description |
+|---|---|
+
+### Hardware, IoT & Firmware
+
+| Project | Description |
+|---|---|
+
+### Social Engineering & OSINT
+
+| Project | Description |
+|---|---|
+
+### Blockchain & Cloud
+
+| Project | Description |
+|---|---|
+
+---
+
+## 🛡️ Defensive Security Projects
+
+### Monitoring & Detection
+
+| Project | Description |
+|---|---|
+
+### Forensics & Incident Response
+
+| Project | Description |
+|---|---|
+
+### Hardening & Secure Architecture
+
+| Project | Description |
+|---|---|
+
+### Cloud, Container & Pipeline Security
+
+| Project | Description |
+|---|---|
+
+### Threat Intelligence & Deception
+
+| Project | Description |
+|---|---|
+
+<div align="center">
+
+*All offensive projects are intended for authorized, lab, or educational use only.*
+
+</div>
+
 
 ---
 
