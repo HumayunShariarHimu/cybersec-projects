@@ -2,7 +2,6 @@
 
 > A curated and organized collection of resources related to **cybersec-projects**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Cyber Security Projects
  
@@ -12,7 +11,6 @@
 
 > Hands-on cybersecurity projects built for learning, experimentation, and practical security research — featuring offensive and defensive tools, automation scripts, and real-world simulations for ethical hacking practice.
 
-# Contact With Me:
 
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
   </a>
@@ -27,7 +25,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
 
-  # 💰 You can help me by Donating
 
 ## 📑 Table of Contents
 
@@ -122,7 +119,6 @@
 
 *All offensive projects are intended for authorized, lab, or educational use only.*
 
-</div>
 
 
 ---
