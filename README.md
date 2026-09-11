@@ -13,6 +13,102 @@
 
 
 
+
+## 📑 Table of Contents
+
+- [⚔️ Offensive Security Projects](#️-offensive-security-projects)
+  - [Reconnaissance & Enumeration](#reconnaissance--enumeration)
+  - [Web Application Security](#web-application-security)
+  - [Network & Wireless Attacks](#network--wireless-attacks)
+  - [Exploitation & Post-Exploitation](#exploitation--post-exploitation)
+  - [Malware & Evasion Research](#malware--evasion-research)
+  - [Hardware, IoT & Firmware](#hardware-iot--firmware)
+  - [Social Engineering & OSINT](#social-engineering--osint)
+  - [Blockchain & Cloud](#blockchain--cloud)
+- [🛡️ Defensive Security Projects](#️-defensive-security-projects)
+  - [Monitoring & Detection](#monitoring--detection)
+  - [Forensics & Incident Response](#forensics--incident-response)
+  - [Hardening & Secure Architecture](#hardening--secure-architecture)
+  - [Cloud, Container & Pipeline Security](#cloud-container--pipeline-security)
+  - [Threat Intelligence & Deception](#threat-intelligence--deception)
+
+## ⚔️ Offensive Security Projects
+
+### Reconnaissance & Enumeration
+
+| Project | Description |
+|---|---|
+
+### Web Application Security
+
+| Project | Description |
+|---|---|
+
+### Network & Wireless Attacks
+
+| Project | Description |
+|---|---|
+
+### Exploitation & Post-Exploitation
+
+| Project | Description |
+|---|---|
+
+### Malware & Evasion Research
+
+| Project | Description |
+|---|---|
+
+### Hardware, IoT & Firmware
+
+| Project | Description |
+|---|---|
+
+### Social Engineering & OSINT
+
+| Project | Description |
+|---|---|
+
+### Blockchain & Cloud
+
+| Project | Description |
+|---|---|
+
+---
+
+## 🛡️ Defensive Security Projects
+
+### Monitoring & Detection
+
+| Project | Description |
+|---|---|
+
+### Forensics & Incident Response
+
+| Project | Description |
+|---|---|
+
+### Hardening & Secure Architecture
+
+| Project | Description |
+|---|---|
+
+### Cloud, Container & Pipeline Security
+
+| Project | Description |
+|---|---|
+
+### Threat Intelligence & Deception
+
+| Project | Description |
+|---|---|
+
+<div align="center">
+
+*All offensive projects are intended for authorized, lab, or educational use only.*
+
+
+
 ---
 
 **cybersec-projects** — Represented By [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)
